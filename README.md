@@ -1,5 +1,8 @@
-## Hi there 👋
+## Pauru777.c 👋
 
+// Im new here!
+
+#import "energy_drink" // Coffee was deprecated
 <!--
 **Pauru777/Pauru777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
